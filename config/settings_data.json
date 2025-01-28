@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "heading_color": "#1c1b1b",
@@ -26,7 +35,7 @@
     "uppercase_heading": true,
     "text_font": "nunito_sans_n4",
     "base_text_font_size": 14,
-    "color_swatch_config": "Ascot Grey:#B8B8B8\nAzure: #468689\nApple:#82bd75\nBlack:#000000\nBlush Pink:#FFD7D7\nBurgundy:#5E2933\nCamel:#F4D599\nCardinal Red:#B10000\nChampagne:#EBD9BA\nCharcoal:#383838\nChocolate:#3E1D10\nCognac:#691F01\nDark Brown:#2E170B\nDark Grey:#343536\nDark Navy:#090926\nDove Grey:#BCBCC5\nElephant Grey:#8B8990\nForest:#153615\nFuchsia:#FF005C\nIvory:#FEFFF7\nLight Yellow:#E4E2A6\nLight Pink:#f2c2c5\nMidnight Blue:#0F0E3E\nNavy:#12122F\nOyster:#F6F3EF\nPalomino:#EAEAEA\nParchment:#EEEDE2\nPine:#116560\nPink:#E4437D\nPlum:#632F61\nPowder Blue:#D7DCE7\nPowder White:#FFFFFF\nRaspberry Rose:#DE4790\nRed:#A51B1B\nRose:#EC7F7F\nSilver Mist:#DBDAE2\nSmoke:#C4C4C4\nSmokey Rose:#EFC6BE\nSoft Rose:#FFD7D7\nTaupe:#E1DDD2\nViolet:#591E57\nWhite:#FFFFFF\nWinter White:#FFFFFF\nWhite \/ Black:white-black.png\nBlack \/ White:black-white.png\nAnimal Print: animal-print-1.png\nPearl:#F6F3EF\nOptic White:#f5f5f0\nClaret:#571830\nJade:#15594f\nMagenta:#6e1b3f\nViolet:#6b227d",
+    "color_swatch_config": "Ascot Grey:#B8B8B8\nAzure: #468689\nApple:#82bd75\nBlack:#000000\nBlush Pink:#FFD7D7\nBurgundy:#5E2933\nCamel:#F4D599\nCardinal Red:#B10000\nChampagne:#EBD9BA\nCharcoal:#383838\nChocolate:#3E1D10\nCognac:#691F01\nDark Brown:#2E170B\nDark Grey:#343536\nDark Navy:#090926\nDove Grey:#BCBCC5\nElephant Grey:#8B8990\nForest:#153615\nFuchsia:#FF005C\nIvory:#FEFFF7\nLight Yellow:#E4E2A6\nLight Pink:#f2c2c5\nMidnight Blue:#0F0E3E\nNavy:#12122F\nOyster:#F6F3EF\nPalomino:#EAEAEA\nParchment:#EEEDE2\nPine:#116560\nPink:#E4437D\nPlum:#632F61\nPowder Blue:#D7DCE7\nPowder White:#FFFFFF\nRaspberry Rose:#DE4790\nRed:#A51B1B\nRose:#EC7F7F\nSilver Mist:#DBDAE2\nSmoke:#C4C4C4\nSmokey Rose:#EFC6BE\nSoft Rose:#FFD7D7\nTaupe:#E1DDD2\nViolet:#591E57\nWhite:#FFFFFF\nWinter White:#FFFFFF\nWhite / Black:white-black.png\nBlack / White:black-white.png\nAnimal Print: animal-print-1.png\nPearl:#F6F3EF\nOptic White:#f5f5f0\nClaret:#571830\nJade:#15594f\nMagenta:#6e1b3f\nViolet:#6b227d",
     "show_page_transition": true,
     "search_mode": "product,article",
     "product_show_price_on_hover": false,
@@ -39,11 +48,11 @@
     "cart_enable_notes": true,
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "50",
-    "social_facebook": "https:\/\/www.facebook.com\/CorneliaJamesLtd",
-    "social_pinterest": "https:\/\/www.pinterest.co.uk\/corneliajames\/_created\/",
-    "social_instagram": "https:\/\/www.instagram.com\/cornelia_james",
-    "favicon": "shopify:\/\/shop_images\/CJ_Eternity_Marque_Solo_Black_72ppi.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Checkout_15ce7c5e-a44e-4898-b40d-17113bbf7e78.png",
+    "social_facebook": "https://www.facebook.com/CorneliaJamesLtd",
+    "social_pinterest": "https://www.pinterest.co.uk/corneliajames/_created/",
+    "social_instagram": "https://www.instagram.com/cornelia_james",
+    "favicon": "shopify://shop_images/CJ_Eternity_Marque_Solo_Black_72ppi.png",
+    "checkout_logo_image": "shopify://shop_images/Checkout_15ce7c5e-a44e-4898-b40d-17113bbf7e78.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#ffffff",
@@ -55,8 +64,8 @@
       "sidebar-menu": {
         "type": "sidebar-menu",
         "settings": {
-          "primary_menu": "freddie",
-          "secondary_menu": "secondary-mobile-nav",
+          "primary_menu": "",
+          "secondary_menu": "",
           "show_social_media": true
         }
       },
@@ -78,24 +87,21 @@
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "Everyday",
-              "push_1_image": "shopify:\/\/shop_images\/Thumnail_680x_1_copy.png",
               "push_1_heading": "The Glovemaker's Art",
               "push_1_subheading": "How we do it",
-              "push_1_url": "shopify:\/\/pages\/the-glovemakers-art",
-              "push_2_image": "shopify:\/\/shop_images\/Cornelia_James_0252.jpg",
+              "push_1_url": "shopify://pages/the-glovemakers-art",
               "push_2_heading": "Our story",
               "push_2_subheading": "",
-              "push_2_url": "shopify:\/\/blogs\/information\/story"
+              "push_2_url": "shopify://blogs/information/story"
             }
           },
           "3fc53942-d535-48e8-89a2-004d366f4882": {
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "Occasions",
-              "push_1_image": "shopify:\/\/shop_images\/4-2-12_Jennifer_Endom_002.jpg",
               "push_1_heading": "As seen on",
               "push_1_subheading": "CJ Press & Features",
-              "push_1_url": "shopify:\/\/blogs\/press-features",
+              "push_1_url": "shopify://blogs/press-features",
               "push_2_heading": "Example heading",
               "push_2_subheading": "Example sub-heading",
               "push_2_url": ""
@@ -105,10 +111,9 @@
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "About",
-              "push_1_image": "shopify:\/\/shop_images\/preview_image_680x_b331dcb6-009f-46be-8db8-4d88ca9028f3.jpg",
               "push_1_heading": "As seen on",
               "push_1_subheading": "CJ through the years",
-              "push_1_url": "https:\/\/www.corneliajames.com\/blogs\/press-features",
+              "push_1_url": "https://www.corneliajames.com/blogs/press-features",
               "push_2_heading": "Example heading",
               "push_2_subheading": "Example sub-heading",
               "push_2_url": ""
@@ -122,7 +127,7 @@
         ],
         "settings": {
           "use_sticky_header": false,
-          "logo": "shopify:\/\/shop_images\/Montserrat_1.png",
+          "logo": "shopify://shop_images/Heritage-2_13f9fdf1-2f31-4799-a654-bb9f45017027.png",
           "logo_max_width": 270,
           "mobile_logo_max_width": 190,
           "show_currency_selector": true,
@@ -133,8 +138,7 @@
           "enable_transparent_header": true,
           "enable_transparent_header_collection": false,
           "show_transparent_header_border": true,
-          "transparent_text_color": "#ffffff",
-          "transparent_logo": "shopify:\/\/shop_images\/Montserrat_1_3cc91ca5-7b64-48c8-94bc-b32345e35219.png"
+          "transparent_text_color": "#ffffff"
         }
       },
       "footer": {
@@ -144,7 +148,7 @@
             "type": "text",
             "settings": {
               "title": "About us",
-              "content": "<p>Glovemakers since 1946 and by Royal Appointment since 1978. Glovemakers of choice to the world of fashion, gloves of timeless style and of the moment, for every occasion, for every mood. Our gloves are designed and made by us at our atelier in East Sussex - British manufacturing at its best - and we ship to every country in the World within the week. One of fashion's best kept secrets - don't say a word...<\/p>",
+              "content": "<p>Glovemakers since 1946 and by Royal Appointment since 1978. Glovemakers of choice to the world of fashion, gloves of timeless style and of the moment, for every occasion, for every mood. Our gloves are designed and made by us at our atelier in East Sussex - British manufacturing at its best - and we ship to every country in the World within the week. One of fashion's best kept secrets - don't say a word...</p>",
               "show_social_media": true
             }
           },
@@ -158,7 +162,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Newsletter",
-              "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
             }
           },
           "3c3ac289-9c92-4ace-8cc0-ec5f0eefdea5": {
@@ -189,37 +193,13 @@
           "show_only_for_visitors": true,
           "show_only_once": true,
           "title": "Popup",
-          "content": "<p>You can use this popup to display some useful information to your customers.<\/p>",
+          "content": "<p>You can use this popup to display some useful information to your customers.</p>",
           "show_newsletter": true,
           "apparition_delay": 5
         }
       }
     },
-    "content_for_index": [
-
-    ],
-    "blocks": {
-      "10830403595879607806": {
-        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-core\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-        "disabled": false,
-        "settings": {
-          "url_key": "www.corneliajames.com",
-          "lang": "auto"
-        }
-      },
-      "15316669992541710076": {
-        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-snippet\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-        "disabled": false,
-        "settings": {
-          "star": "#1c1b1b",
-          "snippet_mode": "default",
-          "text": "Reviews",
-          "line_break": false,
-          "show_popup": true,
-          "anchor_to_reviews_widget": false
-        }
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Allure": {
@@ -302,7 +282,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -316,7 +296,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
@@ -411,7 +391,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -425,7 +405,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
@@ -521,7 +501,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -535,7 +515,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
